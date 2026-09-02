@@ -31,7 +31,7 @@ const App = () => {
                   
                   {/* Кнопка поддержки */}
                   <a
-                    href="https://t.me/EvolveVpnSupportBot"
+                    href="https://t.me/EvoTmx"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="relative inline-block px-8 py-3 text-white font-medium text-lg border border-white/30 rounded-lg overflow-hidden group transition-colors duration-300 hover:border-white/80"
@@ -42,7 +42,7 @@ const App = () => {
 
                   {/* Кнопка "Мы в Telegram" */}
                   <a
-                    href="https://t.me/EvoTmx"
+                    href="https://t.me/EvolveVpn"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="relative inline-block px-8 py-3 text-white font-medium text-lg border border-white/30 rounded-lg overflow-hidden group transition-colors duration-300 hover:border-white/80"

@@ -12,7 +12,7 @@ const Tech = () => {
         className="text-3xl sm:text-4xl md:text-5xl font-bold text-center text-white transition-all duration-300 cursor-default
                    hover:drop-shadow-[0_0_25px_rgba(255,255,255,1)] hover:scale-105"
       >
-        ВЕРНИ СЕБЕ ЗАБЛОКИРОВАННЫЕ СЕРВИСЫ
+        ВЕРНИ СЕБЕ ПРИВЫЧНЫЕ СЕРВИСЫ
       </h2>
 
       {/* 3d-шарики */}
